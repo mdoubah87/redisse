@@ -2,7 +2,7 @@
 
 Redisse is a Redis-backed Ruby library for creating [Server-Sent
 Events](http://www.w3.org/TR/eventsource/), publishing them from your
-application, and serving them to your clients.
+application, and serving them to your clients(because is very important).
 
 * **Homepage:**
   [github.com/tigerlily/redisse](https://github.com/tigerlily/redisse)
